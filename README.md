@@ -1,5 +1,5 @@
 # TP5 - Gestion des Produits avec Spring et Hibernate
-![Capture]()
+![Capture](https://github.com/AsmaElmourabite/tp5/blob/f09b57516ca1d274e445eb7ecf0bfbdc64d8752f/tp5.jpg)
 ## Objectifs pédagogiques
 Ce TP a pour objectifs de permettre aux étudiants de :  
 - Comprendre les bases de la gestion des dépendances avec Maven.  
